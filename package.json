@@ -9,7 +9,6 @@
     "dev": "next dev",
     "build": "next build",
     "preview": "npx --yes serve out",
-    "lint": "next lint",
     "new": "node scripts/new-article.js",
     "deploy": "./scripts/deploy.sh"
   },
